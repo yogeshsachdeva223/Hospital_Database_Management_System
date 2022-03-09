@@ -19,5 +19,5 @@ In a typical day, hospitals engage with a large number of people and do a variet
 2. Doctor
 3. Medical History
 4. Appointment
-5. Schedules
+5. Schedule 
 
